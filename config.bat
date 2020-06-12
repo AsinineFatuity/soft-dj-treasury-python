@@ -1,5 +1,5 @@
-setx DAR_SECRET_KEY 11a6769e0847a691e179bf94ed895d1a329ae72b29cfabf9
+setx SECRET_KEY 868ac0fb2ae361d85e8b9c518de43dfc73e8e4303689c0ec2b0da55bdc99
 setx TR_TEST_DB_NAME daraja_uonsda_test_database
 setx TR_TEST_DB_PASS a69ine2020
 setx TR_TEST_DB_USER asinine_fatuity
-setx DJANGO_DEBUG False
+setx DEBUG_VALUE True

@@ -29,7 +29,7 @@ from django.views.generic import TemplateView
 #mpesa app urls
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url('mpesa/',include('mpesa.urls')),
+    url('',include('mpesa.urls')),
 ]
 #for serving static files
 urlpatterns += staticfiles_urlpatterns()
