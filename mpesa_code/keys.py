@@ -1,0 +1,7 @@
+business_short_code = "174379"
+phone_number = "254711653675"
+lipa_na_mpesa_passkey ="bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+consumer_key = "eI90wFPeGTNzXC3QA4KI4NPA7cs8KCHj"
+consumer_secret = "gHtFLwRLw43d4FJf"
+c2b_short_code = "601435"
+test_msisdn = "254708374149"

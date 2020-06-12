@@ -1,0 +1,1 @@
+web: gunicorn treasury_uonsda.wsgi:app --log-file -
